@@ -1,9 +1,20 @@
  
-
-Git init creates a hidden repository file in the folder called .git 
-
+Git init creates a hidden repository file in the folder called .git
  
-
+Git adds a file to the local repository
  
-
+Git push will move the local repository data to a remote repository
  
+Git branch will create a new branch in your repository
+ 
+Git commit will wriite the files to the repository
+ 
+Git status displays the current status of the working area and staging area
+ 
+Git remote lets you create, view or delete connections to other repositories
+ 
+Git checkout will apply chacnges from your branch to main
+ 
+Git log lists the commits made in the repository
+ 
+Git pull will download content from the remote repository to the local repository
