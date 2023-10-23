@@ -1,0 +1,9 @@
+ 
+
+Git init creates a hidden repository file in the folder called .git 
+
+ 
+
+ 
+
+ 
